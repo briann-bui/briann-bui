@@ -147,20 +147,36 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 <h2 align="center">◈ GitHub Activity</h2>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briann-bui&theme=github_dark" alt="Brian Bui's GitHub contribution graph" />
+  <sub>Public RTL, verification, and semiconductor engineering work — updated automatically from GitHub.</sub>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=briann-bui&theme=github_dark" alt="Brian Bui's GitHub statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=briann-bui&theme=github_dark" alt="Brian Bui's most used repository languages" />
+  <code>CONTRIBUTION OVERVIEW</code>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=briann-bui&theme=github_dark&utcOffset=7" alt="Brian Bui's productive coding time in UTC+7" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briann-bui&theme=github_dark" alt="Brian Bui's GitHub contribution overview" />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <code>PROFILE METRICS</code><br /><br />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=briann-bui&theme=github_dark" alt="Brian Bui's GitHub profile metrics" />
+    </td>
+    <td align="center" width="50%">
+      <code>COMMIT WINDOW · UTC+7</code><br /><br />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=briann-bui&theme=github_dark&utcOffset=7" alt="Brian Bui's productive coding time in UTC+7" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <code>RECENT CONTRIBUTION SIGNAL</code>
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=briann-bui&bg_color=0D1117&color=7DD3FC&line=0EA5E9&point=E0F2FE&area_color=0369A1&area=true&hide_border=true" alt="Brian Bui's recent GitHub activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=briann-bui&bg_color=0D1117&color=7DD3FC&line=0EA5E9&point=E0F2FE&area_color=0369A1&area=true&hide_border=true&hide_title=true&radius=8" alt="Brian Bui's recent GitHub activity signal" />
 </p>
 
 ---
