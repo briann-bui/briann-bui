@@ -8,23 +8,27 @@
 
 <p align="center">
   <a href="https://github.com/briann-bui">
-    <img src="https://img.shields.io/badge/GitHub-briann--bui-0F172A?style=for-the-badge&logo=github&logoColor=E0F2FE" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-briann--bui-0369A1?style=for-the-badge&labelColor=0F172A&logo=github&logoColor=E0F2FE" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/buiminhnhut114/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bui%20Minh%20Nhut-0369A1?style=for-the-badge&logo=linkedin&logoColor=E0F2FE" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Bui%20Minh%20Nhut-0EA5E9?style=for-the-badge&labelColor=0F172A&logo=linkedin&logoColor=E0F2FE" alt="LinkedIn" />
   </a>
   <a href="mailto:buiminhnhut114@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-075985?style=for-the-badge&logo=gmail&logoColor=E0F2FE" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0369A1?style=for-the-badge&labelColor=0F172A&logo=gmail&logoColor=E0F2FE" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=briann-bui&label=PROFILE%20VIEWS&color=075985&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=briann-bui&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## About Me
+<h2 align="center">◈ About Me</h2>
+
+<p align="center">
+  <sub>Who I am and what I focus on as a digital design engineer.</sub>
+</p>
 
 I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning specifications into clean, synthesizable, and reusable RTL.
 
@@ -34,7 +38,13 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 - Work across the RTL flow: architecture, coding, lint, simulation, debug, and documentation
 - Explore cryptographic accelerators, processor subsystems, FPGA prototyping, and design automation
 
-## Featured Projects
+---
+
+<h2 align="center">◈ Featured Projects</h2>
+
+<p align="center">
+  <sub>RTL IP cores and tools, from architecture through verification.</sub>
+</p>
 
 | Project | Highlights | Technologies |
 | --- | --- | --- |
@@ -45,58 +55,54 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 | [Verilog FSM Generator](https://github.com/briann-bui/verilog-fsm-generator) | Python tool that generates Verilog finite-state machines from CSV or XLSX transition tables | Python, Verilog, Automation |
 | [6T SRAM Cell Design](https://github.com/briann-bui/6T-SRAM-Cell-Design) | 90 nm SRAM cell flow from schematic and simulation through layout, DRC/LVS, and post-layout analysis | Synopsys EDA, PrimeWave, CMOS |
 
-## Languages and Tools
+---
+
+<h2 align="center">◈ Languages and Tools</h2>
+
+<p align="center">
+  <sub>The EDA toolchain and engineering stack behind the projects above.</sub>
+</p>
 
 <h3 align="center">Semiconductor EDA Toolchain</h3>
 
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <a href="https://github.com/chipfoundry/openlane2"><img src="https://github.com/chipfoundry.png?size=120" height="52" alt="OpenLane" /><br /><strong>OpenLane</strong></a><br />
+      <a href="https://github.com/chipfoundry/openlane2"><img src="https://github.com/chipfoundry.png?size=120" height="40" alt="OpenLane" /><br /><strong>OpenLane</strong></a><br />
       <sub>RTL-to-GDSII Flow</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/The-OpenROAD-Project/OpenROAD"><img src="https://github.com/The-OpenROAD-Project.png?size=120" height="52" alt="OpenROAD" /><br /><strong>OpenROAD</strong></a><br />
+      <a href="https://github.com/The-OpenROAD-Project/OpenROAD"><img src="https://github.com/The-OpenROAD-Project.png?size=120" height="40" alt="OpenROAD" /><br /><strong>OpenROAD</strong></a><br />
       <sub>Physical Design</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/YosysHQ/yosys"><img src="https://github.com/YosysHQ.png?size=120" height="52" alt="Yosys" /><br /><strong>Yosys</strong></a><br />
+      <a href="https://github.com/YosysHQ/yosys"><img src="https://github.com/YosysHQ.png?size=120" height="40" alt="Yosys" /><br /><strong>Yosys</strong></a><br />
       <sub>RTL Synthesis</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/verilator/verilator"><img src="https://github.com/verilator.png?size=120" height="52" alt="Verilator" /><br /><strong>Verilator</strong></a><br />
+      <a href="https://github.com/verilator/verilator"><img src="https://github.com/verilator.png?size=120" height="40" alt="Verilator" /><br /><strong>Verilator</strong></a><br />
       <sub>Lint & Simulation</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <a href="https://eda.sw.siemens.com/en-US/ic/questa/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg" height="28" alt="Siemens EDA" /><br /><strong>Siemens EDA</strong></a><br />
+      <a href="https://eda.sw.siemens.com/en-US/ic/questa/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Siemens-logo.svg" height="40" alt="Siemens EDA" /><br /><strong>Siemens EDA</strong></a><br />
       <sub>QuestaSim · ModelSim</sub><br />
       <sub>HDL Simulation & Verification</sub>
     </td>
     <td align="center" colspan="2" width="50%">
-      <a href="https://www.synopsys.com/"><img src="./assets/synopsys.svg" height="34" alt="Synopsys" /><br /><strong>Synopsys EDA Suite</strong></a><br />
+      <a href="https://www.synopsys.com/"><img src="./assets/synopsys.svg" height="40" alt="Synopsys" /><br /><strong>Synopsys EDA Suite</strong></a><br />
       <sub>VCS · Verdi · Design Compiler · SpyGlass · PrimeTime · PrimeWave</sub><br />
       <sub>Simulation · Debug · Synthesis · Static Analysis · STA · AMS</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html"><img src="https://cdn.simpleicons.org/intel/00C7FD" height="42" alt="Intel" /><br /><strong>Quartus Prime</strong></a><br />
+      <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html"><img src="https://cdn.simpleicons.org/intel/00C7FD" height="40" alt="Intel" /><br /><strong>Quartus Prime</strong></a><br />
       <sub>FPGA Design & Synthesis</sub>
     </td>
   </tr>
 </table>
 
-<h3 align="center">HDL & Automation</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Verilog-0F172A?style=for-the-badge" alt="Verilog" />
-  <img src="https://img.shields.io/badge/SystemVerilog-0C4A6E?style=for-the-badge" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/UVM-075985?style=for-the-badge" alt="UVM" />
-  <img src="https://img.shields.io/badge/Python-0369A1?style=for-the-badge&logo=python&logoColor=E0F2FE" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-0284C7?style=for-the-badge&logo=linux&logoColor=E0F2FE" alt="Linux" />
-</p>
-
-## Engineering Toolkit
+<h3 align="center">Engineering Toolkit</h3>
 
 | Area | Technologies |
 | --- | --- |
@@ -106,6 +112,8 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 | FPGA & ASIC | OpenLane, OpenROAD, Yosys, Design Compiler, PrimeTime, Intel Quartus, DRC/LVS |
 | Programming | Python, C#, Java, MATLAB, SQL |
 | Environment | Linux, Git, Make, shell scripting |
+
+---
 
 <h2 align="center">◈ RTL Engineering Principles</h2>
 
@@ -130,19 +138,21 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/04-REUSABLE%20IP-0F172A?style=for-the-badge&labelColor=0284C7" alt="Reusable IP" /><br /><br />
+      <img src="https://img.shields.io/badge/04-REUSABLE%20IP-0F172A?style=for-the-badge&labelColor=0EA5E9" alt="Reusable IP" /><br /><br />
       <sub>Parameterized, portable blocks designed for clean SoC and FPGA integration.</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/05-VERIFICATION%20FIRST-0F172A?style=for-the-badge&labelColor=0284C7" alt="Verification first" /><br /><br />
+      <img src="https://img.shields.io/badge/05-VERIFICATION%20FIRST-0F172A?style=for-the-badge&labelColor=0EA5E9" alt="Verification first" /><br /><br />
       <sub>Assertions, self-checking tests, coverage goals, and debug visibility from day one.</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/06-DOCUMENTED-0F172A?style=for-the-badge&labelColor=0284C7" alt="Practical documentation" /><br /><br />
+      <img src="https://img.shields.io/badge/06-DOCUMENTED-0F172A?style=for-the-badge&labelColor=0EA5E9" alt="Practical documentation" /><br /><br />
       <sub>Concise specifications, usage examples, diagrams, and reproducible workflows.</sub>
     </td>
   </tr>
 </table>
+
+---
 
 <h2 align="center">◈ GitHub Activity</h2>
 
@@ -169,6 +179,16 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=briann-bui&theme=github_dark&utcOffset=7" alt="Brian Bui's productive coding time in UTC+7" />
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <code>LANGUAGE FOOTPRINT</code><br /><br />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=briann-bui&theme=github_dark" alt="Brian Bui's repository language footprint" />
+    </td>
+    <td align="center" width="50%">
+      <code>CONSISTENCY STREAK</code><br /><br />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=briann-bui&hide_border=true&background=0D1117&border=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakLabel=7DD3FC&sideLabels=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=64748B" alt="Brian Bui's contribution streak" />
+    </td>
+  </tr>
 </table>
 
 <p align="center">
@@ -184,4 +204,13 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 <p align="center">
   Interested in RTL design, SoC IP, FPGA/ASIC development, or verification?<br />
   <a href="mailto:buiminhnhut114@gmail.com"><strong>Let's connect and build something reliable.</strong></a>
+</p>
+
+<p align="center">
+  <a href="mailto:buiminhnhut114@gmail.com">
+    <img src="https://img.shields.io/badge/Email-buiminhnhut114%40gmail.com-0369A1?style=for-the-badge&labelColor=0F172A&logo=gmail&logoColor=E0F2FE" alt="Email Brian Bui" />
+  </a>
+  <a href="https://github.com/briann-bui">
+    <img src="https://img.shields.io/badge/GitHub-briann--bui-0EA5E9?style=for-the-badge&labelColor=0F172A&logo=github&logoColor=E0F2FE" alt="Brian Bui on GitHub" />
+  </a>
 </p>
