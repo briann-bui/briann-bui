@@ -39,7 +39,7 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 | Project | Highlights | Technologies |
 | --- | --- | --- |
 | [AES-256 Cryptographic IP Core](https://github.com/briann-bui/aes_256) | Synthesizable AES-256 core with AXI4-Lite, six operating modes, interrupts, and a UVM verification environment | SystemVerilog, UVM, AXI4-Lite, Verilator, ModelSim |
-| [SHA-256 Core](https://github.com/briann-bui/sha_engine_core) | Modular SHA-256 RTL core with single- and multi-block hashing and direct-port UVM smoke tests | SystemVerilog, UVM, Synopsys VCS |
+| [SHA-256 Core](https://github.com/briann-bui/sha_256_core) | Modular SHA-256 RTL core with single- and multi-block hashing and direct-port UVM smoke tests | SystemVerilog, UVM, Synopsys VCS |
 | [64-bit Timer IP](https://github.com/briann-bui/64bit-Timer-IP-Design) | APB timer peripheral with byte access, wait states, error handling, programmable prescaling, and interrupts | Verilog, AMBA APB, QuestaSim |
 | [NTT Engine Core](https://github.com/briann-bui/ntt-engine-core) | Hardware-oriented Number Theoretic Transform engine for arithmetic acceleration | SystemVerilog, RTL Design |
 | [Verilog FSM Generator](https://github.com/briann-bui/verilog-fsm-generator) | Python tool that generates Verilog finite-state machines from CSV or XLSX transition tables | Python, Verilog, Automation |
