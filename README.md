@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0F172A,100:0369A1&text=BRIAN%20BUI&fontColor=E0F2FE&fontSize=52&fontAlignY=38&desc=RTL%20DESIGN%20ENGINEER%20%E2%80%A2%20SoC%20%26%20MCU%20IP&descSize=18&descAlignY=58&animation=fadeIn" alt="Brian Bui — RTL Design Engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:020617,50:0F172A,100:0369A1&amp;text=BRIAN%20BUI&amp;fontColor=E0F2FE&amp;fontSize=52&amp;fontAlignY=38&amp;desc=RTL%20DESIGN%20ENGINEER%20%E2%80%A2%20SoC%20%26%20MCU%20IP&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn&amp;v=2" alt="Brian Bui — RTL Design Engineer" />
 </p>
 
 <p align="center">
