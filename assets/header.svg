@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+  <title id="title">Brian Bui — RTL Design Engineer</title>
+  <desc id="description">Navy technology-themed profile banner for Brian Bui</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#020617" />
+      <stop offset="52%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#075985" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.07" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#background)" />
+  <rect width="1200" height="260" fill="url(#grid)" />
+
+  <g fill="none" stroke="#38bdf8" stroke-opacity="0.22">
+    <path d="M0 62 H190 L218 34 H318" />
+    <path d="M1200 72 H1025 L995 42 H900" />
+    <circle cx="218" cy="34" r="4" fill="#38bdf8" stroke="none" />
+    <circle cx="995" cy="42" r="4" fill="#38bdf8" stroke="none" />
+  </g>
+
+  <text x="600" y="112" fill="#e0f2fe" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="5" text-anchor="middle">BRIAN BUI</text>
+  <rect x="365" y="132" width="470" height="2" rx="1" fill="url(#accent)" />
+  <text x="600" y="170" fill="#7dd3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" letter-spacing="2" text-anchor="middle">RTL DESIGN ENGINEER</text>
+  <text x="600" y="204" fill="#bae6fd" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="1.5" text-anchor="middle">SoC &amp; MCU IP  •  VERILOG / SYSTEMVERILOG  •  DV-AWARE DESIGN</text>
+
+  <path d="M0 232 C180 260 330 215 510 238 C700 263 865 215 1200 242 V260 H0 Z" fill="#0c4a6e" fill-opacity="0.7" />
+  <path d="M0 242 C220 216 390 268 610 240 C835 212 1010 264 1200 234 V260 H0 Z" fill="#020617" />
+</svg>
