@@ -50,7 +50,7 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 | --- | --- | --- |
 | [AES-256 Cryptographic IP Core](https://github.com/briann-bui/aes_256) | Synthesizable AES-256 core with AXI4-Lite, six operating modes, interrupts, and a UVM verification environment | SystemVerilog, UVM, AXI4-Lite, Verilator, ModelSim |
 | [SHA-256 Core](https://github.com/briann-bui/sha_256_core) | Modular SHA-256 RTL core with single- and multi-block hashing and direct-port UVM smoke tests | SystemVerilog, UVM, Synopsys VCS |
-| [64-bit Timer IP](https://github.com/briann-bui/64bit-Timer-IP-Design) | APB timer peripheral with byte access, wait states, error handling, programmable prescaling, and interrupts | Verilog, AMBA APB, QuestaSim |
+| [64-bit APB Timer Core](https://github.com/briann-bui/apb_timer_64bit_core) | APB timer peripheral with byte access, wait states, error handling, programmable prescaling, and interrupts | Verilog, AMBA APB, QuestaSim |
 | [NTT IP Core](https://github.com/briann-bui/ntt_core) | Synthesizable Number Theoretic Transform core for post-quantum cryptography and arithmetic acceleration | SystemVerilog, RTL Design |
 | [Verilog FSM Generator](https://github.com/briann-bui/verilog-fsm-generator) | Python tool that generates Verilog finite-state machines from CSV or XLSX transition tables | Python, Verilog, Automation |
 | [6T SRAM Cell Design](https://github.com/briann-bui/6T-SRAM-Cell-Design) | 90 nm SRAM cell flow from schematic and simulation through layout, DRC/LVS, and post-layout analysis | Synopsys EDA, PrimeWave, CMOS |
