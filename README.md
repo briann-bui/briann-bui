@@ -75,7 +75,7 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
       <sub>HDL Simulation & Verification</sub>
     </td>
     <td align="center" colspan="2" width="50%">
-      <a href="https://www.synopsys.com/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Synopsys%20Logo.svg" height="34" alt="Synopsys" /><br /><strong>Synopsys EDA Suite</strong></a><br />
+      <a href="https://www.synopsys.com/"><img src="./assets/synopsys.svg" height="34" alt="Synopsys" /><br /><strong>Synopsys EDA Suite</strong></a><br />
       <sub>VCS · Verdi · Design Compiler · SpyGlass · PrimeTime · PrimeWave</sub><br />
       <sub>Simulation · Debug · Synthesis · Static Analysis · STA · AMS</sub>
     </td>
