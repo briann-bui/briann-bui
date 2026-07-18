@@ -48,12 +48,12 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 
 | Project | Highlights | Technologies |
 | --- | --- | --- |
-| [AES-256 Cryptographic IP Core](https://github.com/briann-bui/aes_256) | Synthesizable AES-256 core with AXI4-Lite, six operating modes, interrupts, and a UVM verification environment | SystemVerilog, UVM, AXI4-Lite, Verilator, ModelSim |
-| [SHA-256 Core](https://github.com/briann-bui/sha_256_core) | Modular SHA-256 RTL core with single- and multi-block hashing and direct-port UVM smoke tests | SystemVerilog, UVM, Synopsys VCS |
-| [64-bit APB Timer Core](https://github.com/briann-bui/apb_timer_64bit_core) | APB timer peripheral with byte access, wait states, error handling, programmable prescaling, and interrupts | Verilog, AMBA APB, QuestaSim |
-| [NTT IP Core](https://github.com/briann-bui/ntt_core) | Synthesizable Number Theoretic Transform core for post-quantum cryptography and arithmetic acceleration | SystemVerilog, RTL Design |
-| [Verilog FSM Generator](https://github.com/briann-bui/verilog-fsm-generator) | Python tool that generates Verilog finite-state machines from CSV or XLSX transition tables | Python, Verilog, Automation |
-| [6T SRAM Cell Design](https://github.com/briann-bui/6T-SRAM-Cell-Design) | 90 nm SRAM cell flow from schematic and simulation through layout, DRC/LVS, and post-layout analysis | Synopsys EDA, PrimeWave, CMOS |
+| [SHA-256 Core](https://github.com/briann-bui/sha-256-core) | Modular SHA-256 RTL core supporting single- and multi-block hashing with reusable verification infrastructure | SystemVerilog, UVM, Synopsys VCS |
+| [AES-256 Cryptographic IP Core](https://github.com/briann-bui/aes-256-core) | Synthesizable AES-256 accelerator with AXI4-Lite control, multiple operating modes, interrupts, and UVM verification | SystemVerilog, UVM, AXI4-Lite |
+| [APB Real-Time Clock Core](https://github.com/briann-bui/apb-rtc-core) | Binary Gregorian calendar with programmable prescaler, date-qualified alarm, sticky interrupts, and UVM verification | SystemVerilog, UVM, AMBA APB |
+| [APB Number Theoretic Transform Core](https://github.com/briann-bui/apb-ntt-core) | Radix-2 forward NTT accelerator with internal coefficient memory for post-quantum cryptography research | SystemVerilog, UVM, AMBA APB |
+| [APB Programmable Interrupt Controller](https://github.com/briann-bui/apb-pic-core) | Configurable priority arbitration and claim/complete flow for Cortex-M and RISC-V subsystem integration | SystemVerilog, UVM, AMBA APB |
+| [APB True Random Number Generator](https://github.com/briann-bui/apb-trng-core) | GF180 ring-oscillator entropy source with health monitoring, SHA-256 conditioning, FIFO buffering, and UVM verification | SystemVerilog, UVM, GF180, AMBA APB |
 
 ---
 
