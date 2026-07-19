@@ -174,8 +174,8 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 <table align="center" width="100%">
   <tr>
     <td align="center" width="48%">
-      <code>LANGUAGE FOOTPRINT</code><br /><br />
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=briann-bui&theme=github_dark" alt="Repository language footprint" />
+      <code>COMMIT WINDOW · UTC+7</code><br /><br />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=briann-bui&theme=github_dark&utcOffset=7" alt="Productive coding time in UTC+7" />
     </td>
     <td align="center" width="52%">
       <code>CONSISTENCY STREAK</code><br /><br />
