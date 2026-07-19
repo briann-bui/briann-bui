@@ -173,11 +173,11 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="48%">
-      <code>COMMIT WINDOW · UTC+7</code><br /><br />
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=briann-bui&theme=github_dark&utcOffset=7" alt="Productive coding time in UTC+7" />
+    <td align="center" width="50%">
+      <code>GITHUB METRICS</code><br /><br />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=briann-bui&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE&count_private=true" alt="GitHub Metrics" />
     </td>
-    <td align="center" width="52%">
+    <td align="center" width="50%">
       <code>CONSISTENCY STREAK</code><br /><br />
       <img width="100%" src="https://streak-stats.demolab.com/?user=briann-bui&hide_border=true&background=0D1117&border=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakLabel=7DD3FC&sideLabels=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=64748B" alt="Contribution Streak" />
     </td>
