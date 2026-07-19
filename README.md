@@ -32,7 +32,7 @@
   <sub>Who I am and what I focus on as a digital design engineer.</sub>
 </p>
 
-I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning specifications into clean, synthesizable, and reusable RTL.
+I'm **Bui Minh Nhut (Brian Bui)**, a digital design engineer focused on turning specifications into clean, synthesizable, and reusable RTL.
 
 - ⚙️ **Design** SoC and MCU IP using **Verilog** and **SystemVerilog**
 - 🔌 **Build** memory-mapped peripherals with **AMBA APB** and **AXI4-Lite** interfaces
