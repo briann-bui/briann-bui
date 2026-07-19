@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  I build reusable, verification-friendly RTL IP for FPGA and ASIC systems.
+  <a href="https://github.com/briann-bui">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Digital+Design+Engineer;Verilog+%26+SystemVerilog+Specialist;ASIC+%2F+FPGA+Enthusiast;Building+reusable%2C+verification-friendly+RTL" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -24,7 +26,7 @@
 
 ---
 
-<h2 align="center">◈ About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
   <sub>Who I am and what I focus on as a digital design engineer.</sub>
@@ -32,32 +34,56 @@
 
 I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning specifications into clean, synthesizable, and reusable RTL.
 
-- Design SoC and MCU IP using **Verilog** and **SystemVerilog**
-- Build memory-mapped peripherals with **AMBA APB** and **AXI4-Lite** interfaces
-- Develop self-checking testbenches and **UVM** verification environments
-- Work across the RTL flow: architecture, coding, lint, simulation, debug, and documentation
-- Explore cryptographic accelerators, processor subsystems, FPGA prototyping, and design automation
+- ⚙️ **Design** SoC and MCU IP using **Verilog** and **SystemVerilog**
+- 🔌 **Build** memory-mapped peripherals with **AMBA APB** and **AXI4-Lite** interfaces
+- 🛡️ **Develop** self-checking testbenches and **UVM** verification environments
+- 🚀 **Work** across the RTL flow: architecture, coding, lint, simulation, debug, and documentation
+- 🔬 **Explore** cryptographic accelerators, processor subsystems, FPGA prototyping, and design automation
 
 ---
 
-<h2 align="center">◈ Featured Projects</h2>
+<h2 align="center">🔥 Featured Projects</h2>
 
 <p align="center">
   <sub>RTL IP cores and tools, from architecture through verification.</sub>
 </p>
 
-| Project | Highlights | Technologies |
-| --- | --- | --- |
-| [SHA-256 Core](https://github.com/briann-bui/sha-256-core) | Modular SHA-256 RTL core supporting single- and multi-block hashing with reusable verification infrastructure | SystemVerilog, UVM, Synopsys VCS |
-| [AES-256 Cryptographic IP Core](https://github.com/briann-bui/aes-256-core) | Synthesizable AES-256 accelerator with AXI4-Lite control, multiple operating modes, interrupts, and UVM verification | SystemVerilog, UVM, AXI4-Lite |
-| [APB Real-Time Clock Core](https://github.com/briann-bui/apb-rtc-core) | Binary Gregorian calendar with programmable prescaler, date-qualified alarm, sticky interrupts, and UVM verification | SystemVerilog, UVM, AMBA APB |
-| [APB Number Theoretic Transform Core](https://github.com/briann-bui/apb-ntt-core) | Radix-2 forward NTT accelerator with internal coefficient memory for post-quantum cryptography research | SystemVerilog, UVM, AMBA APB |
-| [APB Programmable Interrupt Controller](https://github.com/briann-bui/apb-pic-core) | Configurable priority arbitration and claim/complete flow for Cortex-M and RISC-V subsystem integration | SystemVerilog, UVM, AMBA APB |
-| [APB True Random Number Generator](https://github.com/briann-bui/apb-trng-core) | GF180 ring-oscillator entropy source with health monitoring, SHA-256 conditioning, FIFO buffering, and UVM verification | SystemVerilog, UVM, GF180, AMBA APB |
+<p align="center">
+  <a href="https://github.com/briann-bui/apb-spi-master-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=apb-spi-master-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
+  </a>
+  <a href="https://github.com/briann-bui/apb-watchdog-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=apb-watchdog-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/briann-bui/sha-256-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=sha-256-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
+  </a>
+  <a href="https://github.com/briann-bui/aes-256-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=aes-256-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/briann-bui/apb-trng-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=apb-trng-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
+  </a>
+  <a href="https://github.com/briann-bui/apb-pic-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=apb-pic-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/briann-bui/apb-rtc-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=apb-rtc-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
+  </a>
+  <a href="https://github.com/briann-bui/apb-ntt-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=apb-ntt-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
+  </a>
+</p>
 
 ---
 
-<h2 align="center">◈ Languages and Tools</h2>
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <p align="center">
   <sub>The EDA toolchain and engineering stack behind the projects above.</sub>
@@ -104,18 +130,21 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 
 <h3 align="center">Engineering Toolkit</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,python,c,cpp,cs,java,matlab,bash&theme=dark" alt="Tools & Languages" />
+</p>
+
 | Area | Technologies |
 | --- | --- |
-| RTL & Verification | Verilog, SystemVerilog, UVM, self-checking testbenches, functional coverage |
-| Interfaces & Architecture | AMBA APB, AXI4-Lite, register maps, interrupts, FSMs, datapaths |
-| Simulation & Quality | QuestaSim, ModelSim, VCS, Verdi, SpyGlass, Verilator, lint, waveform debug |
-| FPGA & ASIC | OpenLane, OpenROAD, Yosys, Design Compiler, PrimeTime, Intel Quartus, DRC/LVS |
-| Programming | Python, C#, Java, MATLAB, SQL |
-| Environment | Linux, Git, Make, shell scripting |
+| 🧬 **RTL & Verification** | Verilog, SystemVerilog, UVM, self-checking testbenches, functional coverage |
+| 🌉 **Interfaces & Architecture** | AMBA APB, AXI4-Lite, register maps, interrupts, FSMs, datapaths |
+| 🐞 **Simulation & Quality** | QuestaSim, ModelSim, VCS, Verdi, SpyGlass, Verilator, lint, waveform debug |
+| 🏗️ **FPGA & ASIC** | OpenLane, OpenROAD, Yosys, Design Compiler, PrimeTime, Intel Quartus, DRC/LVS |
+| 💻 **Programming** | Python, C#, Java, C/C++, MATLAB, Bash |
 
 ---
 
-<h2 align="center">◈ RTL Engineering Principles</h2>
+<h2 align="center">🧭 RTL Engineering Principles</h2>
 
 <p align="center">
   <sub>Six principles I follow to build reliable, maintainable, and integration-ready digital hardware.</sub>
@@ -154,50 +183,28 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 
 ---
 
-<h2 align="center">◈ GitHub Activity</h2>
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-  <sub>Public RTL, verification, and semiconductor engineering work — updated automatically from GitHub.</sub>
-</p>
-
-<p align="center">
-  <code>CONTRIBUTION OVERVIEW</code>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briann-bui&theme=github_dark" alt="Brian Bui's GitHub contribution overview" />
-</p>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <code>PROFILE METRICS</code><br /><br />
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=briann-bui&theme=github_dark" alt="Brian Bui's GitHub profile metrics" />
-    </td>
-    <td align="center" width="50%">
-      <code>COMMIT WINDOW · UTC+7</code><br /><br />
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=briann-bui&theme=github_dark&utcOffset=7" alt="Brian Bui's productive coding time in UTC+7" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <code>LANGUAGE FOOTPRINT</code><br /><br />
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=briann-bui&theme=github_dark" alt="Brian Bui's repository language footprint" />
-    </td>
-    <td align="center" width="50%">
-      <code>CONSISTENCY STREAK</code><br /><br />
-      <img width="100%" src="https://streak-stats.demolab.com/?user=briann-bui&hide_border=true&background=0D1117&border=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakLabel=7DD3FC&sideLabels=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=64748B" alt="Brian Bui's contribution streak" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <code>RECENT CONTRIBUTION SIGNAL</code>
+  <sub>Public RTL, verification, and semiconductor engineering work — updated automatically.</sub>
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=briann-bui&bg_color=0D1117&color=7DD3FC&line=0EA5E9&point=E0F2FE&area_color=0369A1&area=true&hide_border=true&hide_title=true&radius=8" alt="Brian Bui's recent GitHub activity signal" />
 </p>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <code>TOP LANGUAGES</code><br /><br />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briann-bui&layout=compact&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" alt="Top Languages" />
+    </td>
+    <td align="center" width="50%">
+      <code>CONSISTENCY STREAK</code><br /><br />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=briann-bui&hide_border=true&background=0D1117&border=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakLabel=7DD3FC&sideLabels=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=64748B" alt="Contribution Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
