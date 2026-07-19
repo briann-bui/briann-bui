@@ -48,38 +48,16 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
   <sub>RTL IP cores and tools, from architecture through verification.</sub>
 </p>
 
-<p align="center">
-  <a href="https://github.com/briann-bui/apb-spi-master-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=apb-spi-master-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
-  </a>
-  <a href="https://github.com/briann-bui/apb-watchdog-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=apb-watchdog-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/briann-bui/sha-256-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=sha-256-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
-  </a>
-  <a href="https://github.com/briann-bui/aes-256-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=aes-256-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/briann-bui/apb-trng-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=apb-trng-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
-  </a>
-  <a href="https://github.com/briann-bui/apb-pic-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=apb-pic-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/briann-bui/apb-rtc-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=apb-rtc-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
-  </a>
-  <a href="https://github.com/briann-bui/apb-ntt-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=briann-bui&repo=apb-ntt-core&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" width="48%" />
-  </a>
-</p>
+| 📦 Project | 💡 Highlights | 🛠️ Technologies |
+| --- | --- | --- |
+| [**SHA-256 Core**](https://github.com/briann-bui/sha-256-core) | Modular SHA-256 RTL core supporting single- and multi-block hashing with reusable verification infrastructure | `SystemVerilog` `UVM` `Synopsys VCS` |
+| [**AES-256 Core**](https://github.com/briann-bui/aes-256-core) | Synthesizable AES-256 accelerator with AXI4-Lite control, multiple operating modes, interrupts, and UVM verification | `SystemVerilog` `UVM` `AXI4-Lite` |
+| [**APB SPI Master**](https://github.com/briann-bui/apb-spi-master-core) | FIFO-buffered SPI Master Controller IP with APB interface, multi-mode support, and UVM verification | `SystemVerilog` `UVM` `AMBA APB` |
+| [**APB Watchdog**](https://github.com/briann-bui/apb-watchdog-core) | Synthesizable Watchdog Timer IP core with APB interface, cascaded counters, and interrupt/reset generation | `SystemVerilog` `UVM` `AMBA APB` |
+| [**APB RTC Core**](https://github.com/briann-bui/apb-rtc-core) | Binary Gregorian calendar with programmable prescaler, date-qualified alarm, sticky interrupts, and UVM verification | `SystemVerilog` `UVM` `AMBA APB` |
+| [**APB NTT Core**](https://github.com/briann-bui/apb-ntt-core) | Radix-2 forward NTT accelerator with internal coefficient memory for post-quantum cryptography research | `SystemVerilog` `UVM` `AMBA APB` |
+| [**APB PIC Core**](https://github.com/briann-bui/apb-pic-core) | Configurable priority arbitration and claim/complete flow for Cortex-M and RISC-V subsystem integration | `SystemVerilog` `UVM` `AMBA APB` |
+| [**APB TRNG Core**](https://github.com/briann-bui/apb-trng-core) | GF180 ring-oscillator entropy source with health monitoring, SHA-256 conditioning, FIFO buffering, and UVM verification | `SystemVerilog` `UVM` `GF180` `AMBA APB` |
 
 ---
 
@@ -131,7 +109,7 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 <h3 align="center">Engineering Toolkit</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,python,c,cpp,cs,java,matlab,bash&theme=dark" alt="Tools & Languages" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,vscode,python,c,cpp,bash&theme=dark" alt="Tools & Languages" />
 </p>
 
 | Area | Technologies |
@@ -140,7 +118,7 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 | 🌉 **Interfaces & Architecture** | AMBA APB, AXI4-Lite, register maps, interrupts, FSMs, datapaths |
 | 🐞 **Simulation & Quality** | QuestaSim, ModelSim, VCS, Verdi, SpyGlass, Verilator, lint, waveform debug |
 | 🏗️ **FPGA & ASIC** | OpenLane, OpenROAD, Yosys, Design Compiler, PrimeTime, Intel Quartus, DRC/LVS |
-| 💻 **Programming** | Python, C#, Java, C/C++, MATLAB, Bash |
+| 💻 **Programming & Tools** | Python, C/C++, Bash, Linux, Ubuntu, Git, VS Code |
 
 ---
 
@@ -196,8 +174,8 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <code>TOP LANGUAGES</code><br /><br />
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briann-bui&layout=compact&theme=github_dark&bg_color=0D1117&border_color=0369A1&title_color=7DD3FC&icon_color=0EA5E9&text_color=E0F2FE" alt="Top Languages" />
+      <code>LANGUAGE FOOTPRINT</code><br /><br />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=briann-bui&theme=github_dark" alt="Repository language footprint" />
     </td>
     <td align="center" width="50%">
       <code>CONSISTENCY STREAK</code><br /><br />
