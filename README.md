@@ -175,7 +175,7 @@ I'm **Bui Minh Nhut (Brian)**, a digital design engineer focused on turning spec
   <tr>
     <td align="center" width="48%">
       <code>GITHUB METRICS</code><br /><br />
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=briann-bui&theme=github_dark" alt="GitHub Metrics" />
+      <img width="100%" src="./profile-summary-cards-output/github_dark/stats.svg" alt="GitHub Metrics" />
     </td>
     <td align="center" width="52%">
       <code>CONSISTENCY STREAK</code><br /><br />
