@@ -45,19 +45,19 @@ I'm **Bui Minh Nhut (Brian Bui)**, a digital design engineer focused on turning 
 <h2 align="center">🔥 Featured Projects</h2>
 
 <p align="center">
-  <sub>RTL IP cores and tools, from architecture through verification.</sub>
+  <sub>Selected RTL IP cores.</sub>
 </p>
 
-| 📦 Project | 💡 Highlights | 🛠️ Technologies |
-| --- | --- | --- |
-| [**SHA-256 Core**](https://github.com/briann-bui/sha-256-core) | Modular SHA-256 RTL core supporting single- and multi-block hashing with reusable verification infrastructure | `SystemVerilog` `UVM` `Synopsys VCS` |
-| [**AES-256 Core**](https://github.com/briann-bui/aes-256-core) | Synthesizable AES-256 accelerator with AXI4-Lite control, multiple operating modes, interrupts, and UVM verification | `SystemVerilog` `UVM` `AXI4-Lite` |
-| [**APB SPI Master**](https://github.com/briann-bui/apb-spi-master-core) | FIFO-buffered SPI Master Controller IP with APB interface, multi-mode support, and UVM verification | `SystemVerilog` `UVM` `AMBA APB` |
-| [**APB Watchdog**](https://github.com/briann-bui/apb-watchdog-core) | Synthesizable Watchdog Timer IP core with APB interface, cascaded counters, and interrupt/reset generation | `SystemVerilog` `UVM` `AMBA APB` |
-| [**APB RTC Core**](https://github.com/briann-bui/apb-rtc-core) | Binary Gregorian calendar with programmable prescaler, date-qualified alarm, sticky interrupts, and UVM verification | `SystemVerilog` `UVM` `AMBA APB` |
-| [**APB NTT Core**](https://github.com/briann-bui/apb-ntt-core) | Radix-2 forward NTT accelerator with internal coefficient memory for post-quantum cryptography research | `SystemVerilog` `UVM` `AMBA APB` |
-| [**APB PIC Core**](https://github.com/briann-bui/apb-pic-core) | Configurable priority arbitration and claim/complete flow for Cortex-M and RISC-V subsystem integration | `SystemVerilog` `UVM` `AMBA APB` |
-| [**APB TRNG Core**](https://github.com/briann-bui/apb-trng-core) | GF180 ring-oscillator entropy source with health monitoring, SHA-256 conditioning, FIFO buffering, and UVM verification | `SystemVerilog` `UVM` `GF180` `AMBA APB` |
+| 📦 Project                                                                   | 💡 Focus                      |
+| ---------------------------------------------------------------------------- | ----------------------------- |
+| [**SHA-256 Core**](https://github.com/briann-bui/sha-256-core)          | Multi-block hashing           |
+| [**AES-256 Core**](https://github.com/briann-bui/aes-256-core)          | AXI4-Lite crypto accelerator  |
+| [**APB SPI Master**](https://github.com/briann-bui/apb-spi-master-core) | FIFO-buffered SPI controller  |
+| [**APB Watchdog**](https://github.com/briann-bui/apb-watchdog-core)     | Programmable safety timer     |
+| [**APB RTC Core**](https://github.com/briann-bui/apb-rtc-core)          | Calendar, alarm, interrupts   |
+| [**APB NTT Core**](https://github.com/briann-bui/apb-ntt-core)          | Post-quantum accelerator      |
+| [**APB PIC Core**](https://github.com/briann-bui/apb-pic-core)          | Priority interrupt controller |
+| [**APB TRNG Core**](https://github.com/briann-bui/apb-trng-core)        | GF180 entropy source          |
 
 ---
 
@@ -164,22 +164,52 @@ I'm **Bui Minh Nhut (Brian Bui)**, a digital design engineer focused on turning 
 <h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-  <sub>Public RTL, verification, and semiconductor engineering work — updated automatically.</sub>
+  <sub>Recent public engineering activity and open-source contributions.</sub>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=briann-bui&bg_color=0D1117&color=7DD3FC&line=0EA5E9&point=E0F2FE&area_color=0369A1&area=true&hide_border=true&hide_title=true&radius=8" alt="Brian Bui's recent GitHub activity signal" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=briann-bui&bg_color=0D1117&color=7DD3FC&line=0EA5E9&point=E0F2FE&area_color=0369A1&area=true&hide_border=true&hide_title=true&radius=8" alt="Brian Bui's GitHub contribution graph" />
+</p>
+
+<h3 align="center">🌍 Open Source Contributions</h3>
+
+<p align="center">
+  <sub>Selected contributions to widely used open-source SystemVerilog projects.</sub>
 </p>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="48%">
-      <code>GITHUB METRICS</code><br /><br />
-      <img width="100%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Metrics" />
+    <td align="center" valign="top" width="50%">
+      <br />
+      <a href="https://github.com/pulp-platform/common_cells">
+        <img src="https://github.com/pulp-platform.png?size=120" height="56" alt="PULP Platform" /><br />
+        <strong>pulp-platform/common_cells</strong>
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/github/stars/pulp-platform/common_cells?style=flat-square&amp;label=STARS&amp;color=0EA5E9&amp;labelColor=0F172A&amp;logo=github" alt="common_cells stars" />
+      <a href="https://github.com/pulp-platform/common_cells/pull/351">
+        <img src="https://img.shields.io/badge/PR%20%23351-MERGED-8957E5?style=flat-square&amp;labelColor=0F172A&amp;logo=github" alt="PR 351 merged" />
+      </a>
+      <br /><br />
+      <strong>Formal Verification</strong><br />
+      <sub>Added a SymbiYosys proof for <code>cc_heaviside</code>.</sub>
+      <br /><br />
     </td>
-    <td align="center" width="52%">
-      <code>CONSISTENCY STREAK</code><br /><br />
-      <img width="100%" src="https://streak-stats.demolab.com/?user=briann-bui&hide_border=true&background=0D1117&border=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakLabel=7DD3FC&sideLabels=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=64748B" alt="Contribution Streak" />
+    <td align="center" valign="top" width="50%">
+      <br />
+      <a href="https://github.com/pulp-platform/axi">
+        <img src="https://github.com/pulp-platform.png?size=120" height="56" alt="PULP Platform" /><br />
+        <strong>pulp-platform/axi</strong>
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/github/stars/pulp-platform/axi?style=flat-square&amp;label=STARS&amp;color=0EA5E9&amp;labelColor=0F172A&amp;logo=github" alt="axi stars" />
+      <a href="https://github.com/pulp-platform/axi/pull/436">
+        <img src="https://img.shields.io/badge/PR%20%23436-IN%20REVIEW-2563EB?style=flat-square&amp;labelColor=0F172A&amp;logo=github" alt="PR 436 in review" />
+      </a>
+      <br /><br />
+      <strong>RTL Optimization</strong><br />
+      <sub>Exposed <code>AxiLookBits</code> to avoid logic explosion.</sub>
+      <br /><br />
     </td>
   </tr>
 </table>
