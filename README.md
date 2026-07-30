@@ -48,16 +48,44 @@ I'm **Bui Minh Nhut (Brian Bui)**, a digital design engineer focused on turning 
   <sub>Selected RTL IP cores.</sub>
 </p>
 
-| 📦 Project                                                                   | 💡 Focus                      |
-| ---------------------------------------------------------------------------- | ----------------------------- |
-| [**SHA-256 Core**](https://github.com/briann-bui/sha-256-core)          | Multi-block hashing           |
-| [**AES-256 Core**](https://github.com/briann-bui/aes-256-core)          | AXI4-Lite crypto accelerator  |
-| [**APB SPI Master**](https://github.com/briann-bui/apb-spi-master-core) | FIFO-buffered SPI controller  |
-| [**APB Watchdog**](https://github.com/briann-bui/apb-watchdog-core)     | Programmable safety timer     |
-| [**APB RTC Core**](https://github.com/briann-bui/apb-rtc-core)          | Calendar, alarm, interrupts   |
-| [**APB NTT Core**](https://github.com/briann-bui/apb-ntt-core)          | Post-quantum accelerator      |
-| [**APB PIC Core**](https://github.com/briann-bui/apb-pic-core)          | Priority interrupt controller |
-| [**APB TRNG Core**](https://github.com/briann-bui/apb-trng-core)        | GF180 entropy source          |
+<table align="center" width="80%">
+  <tr>
+    <th align="left" width="45%">📦 Project</th>
+    <th align="left" width="55%">💡 Focus</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/briann-bui/sha-256-core"><strong>SHA-256 Core</strong></a></td>
+    <td>Multi-block hashing</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/briann-bui/aes-256-core"><strong>AES-256 Core</strong></a></td>
+    <td>AXI4-Lite crypto accelerator</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/briann-bui/apb-spi-master-core"><strong>APB SPI Master</strong></a></td>
+    <td>FIFO-buffered SPI controller</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/briann-bui/apb-watchdog-core"><strong>APB Watchdog</strong></a></td>
+    <td>Programmable safety timer</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/briann-bui/apb-rtc-core"><strong>APB RTC Core</strong></a></td>
+    <td>Calendar, alarm, interrupts</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/briann-bui/apb-ntt-core"><strong>APB NTT Core</strong></a></td>
+    <td>Post-quantum accelerator</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/briann-bui/apb-pic-core"><strong>APB PIC Core</strong></a></td>
+    <td>Priority interrupt controller</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/briann-bui/apb-trng-core"><strong>APB TRNG Core</strong></a></td>
+    <td>GF180 entropy source</td>
+  </tr>
+</table>
 
 ---
 
